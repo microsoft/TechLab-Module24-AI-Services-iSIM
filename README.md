@@ -1,3 +1,13 @@
+---
+lab:
+    title: TechLab: Module 24 - AI Workloads
+    description:
+    level: 200
+    duration: 60 minutes
+    islab: true
+    primarytopics:
+---
+
 @lab.Title
 
 **Please enter your own Microsoft alias (without the @microsoft.com) in the field below before starting the lab**. This information is required to correctly associate your activity with your learner record and ensure your completion is accurately captured and reported. For data integrity and compliance reasons, learners may only enter their own alias.   After completing the lab, please allow up to 5 business days for all reporting systems to fully reflect your completion.
